@@ -1,0 +1,7 @@
+<!-- app/code/SeuUsuario/UrlManage/view/frontend/layout/default.xml -->
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <block class="Hibrido\UrlManage\Block\Index" name="custom.block" template="Hibrido_UrlManage::custom.phtml"/>
+    </head>
+</page>
